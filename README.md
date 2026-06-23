@@ -62,10 +62,10 @@ cybereden-game/
 
 ## Стек
 
-- **Движок:** Unreal Engine 5
+- **Движок:** Unreal Engine 5 / straNNo
 - **Сеть:** WebRTC / НЕБЕСА ДТ
 - **Синхронизация:** CloudFabric nazrOS
-- **Интеграция:** cloN, blaN, biohN, rostN
+- **Интеграция:** cloN, blaN, biohN, rostN, cybereden.ru
 
 ---
 
