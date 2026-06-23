@@ -1,0 +1,18 @@
+# UE5
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+
+# Git LFS tracked separately
+*.uasset
+*.umap
+
+# OS
+.DS_Store
+Thumbs.db
